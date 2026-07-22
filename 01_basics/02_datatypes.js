@@ -14,3 +14,4 @@ let isloggedIn = false
 //object
 
 console.log(typeof "nitesh");
+console.log(typeof undefined);
