@@ -38,10 +38,17 @@ function loginUserMessage(username){
 // console.log(loginUserMessage());
 // console.log(loginUserMessage("Nitesh"));
 
+
 function calculateCartPrice(val1,val2,...num1){
     return num1
 }
 
-const user =
-
 console.log(calculateCartPrice(200,300,400));
+
+const user = {
+    username: "nitesh",
+    price: 199
+}
+
+function handleObject
+
