@@ -9,8 +9,8 @@ const dc_heros =["superman","batman", "flash"]
 // const allHeros  = marvel_heros.concat(dc_heros)
 // console.log(allHeros);
 
-// const allnewheros = [...marvel_heros, ...dc_heros]
-// console.log(allnewheros);
+const allnewheros = [...marvel_heros, ...dc_heros]
+console.log(allnewheros);
 
 const another_array =[1,2,3,[4,5,5],7,[7,8,[9,1,2]]]
 const real_array = another_array.flat(Infinity)
